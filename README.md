@@ -1,2 +1,1 @@
-# PrepCourse-Henry-
-Repositorio de rueba del modulo2 de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde gihub a mi computadora
